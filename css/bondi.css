@@ -1,0 +1,93 @@
+.navbar .navbar-nav .nav-link{
+    color: black;
+}
+.navbar .navbar-toggler{
+    box-shadow: none;
+}
+.landing{
+    background-color: #5d23c0;
+    gap: 20px;
+}
+.landing img{
+    height: 220px;
+    width: auto;
+}
+.landing .title{
+    background-color: #003268;
+}
+.landing .text{
+    color: white;
+}
+.section-title .main-title{
+    max-width: 37.5rem;
+}
+.section-title .statistique .first-tweny{ 
+    color: #5EA7FD;
+}
+.section-title .statistique .second-tweny{
+    color: #7c72f1;
+}
+.section-title .statistique .third-tweny{ 
+    color: #B35AF4;
+}
+.section-title .statistique .fourth-tweny{ 
+    color: #CF66E0;
+}
+
+.section-title .statistique .below-number{
+    font-size: 12px;
+}
+.section-title .gradient-text {
+    background: linear-gradient(to right, red, orange, yellow, green, blue, violet);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.section-articles .article{
+    max-width: 50rem;
+    gap: 20px;
+}
+.section-articles .article-details .text-1{
+    color: rgb(255, 98, 125);
+    font-weight: bold;
+}
+.section-articles .article-details .text-2{
+    color: black;
+    font-weight: bold;
+}
+.section-articles .article-img img{
+    max-width: 300px;
+}
+.section-cards{
+    background-color: ghostwhite;
+}
+.section-cards .card{
+    max-width: 190px;
+    
+}
+.section-cards .card-img img{
+    max-width: 190px;
+    height: auto;
+    border-radius: 5px 5px 0 0;
+}
+.section-cards .below-card{
+    background-color: white;
+}
+.section-cards .below-card h3{
+    font-size: 14px;
+    text-transform: uppercase;
+}
+.section-cards .below-card p{
+    font-size: 10px;
+    padding-top: 10px;
+}
+.section-cards .container{
+    gap: 75px;
+    max-width: 48rem;
+}
+footer{
+    background-color: gainsboro;
+}
+.test{
+    width: 50px;
+    height: 50px;
+}
